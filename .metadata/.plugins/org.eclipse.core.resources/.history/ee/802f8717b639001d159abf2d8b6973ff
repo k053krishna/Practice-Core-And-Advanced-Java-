@@ -1,0 +1,5 @@
+package com.stramapi.interbate;
+
+public class FindMaxMinAndCountInStream {
+
+}

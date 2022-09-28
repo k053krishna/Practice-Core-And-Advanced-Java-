@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EvenOddArray.java&apos; to &apos;ObjectClass&apos;&#x0D;&#x0A;- Original project: &apos;Practice Program&apos;&#x0D;&#x0A;- Destination element: &apos;ObjectClass&apos;&#x0D;&#x0A;- Original element: &apos;com.velocity.EvenOddArray.java&apos;" description="Copy compilation unit" destination="=ObjectClass" element1="/src&lt;com.velocity{EvenOddArray.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1659252450276" units="1" version="1.0"/>
+</session>

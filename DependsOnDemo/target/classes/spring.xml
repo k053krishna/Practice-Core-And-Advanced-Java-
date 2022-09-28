@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.springframework.org/schema/beans">
+	
+	<bean id="a" class="com.velocity.A" depends-on="b"></bean>
+	<bean id="b" class="com.velocity.B" depends-on="c"></bean>
+	<bean id="c" class="com.velocity.C"></bean>
+	
+
+</beans>

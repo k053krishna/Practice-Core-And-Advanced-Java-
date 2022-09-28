@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="update"/>
+			<item value="practice"/>
+			<item value="ManayToMany"/>
+			<item value="ManyToOne"/>
+			<item value="OneToMany"/>
+			<item value="One"/>
+			<item value="Reqired"/>
+			<item value="DependencyChaking"/>
+			<item value="Checking"/>
+			<item value="Autowiring"/>
+			<item value="Byname"/>
+			<item value="Constructor"/>
+			<item value="Dependency"/>
+			<item value="spring"/>
+			<item value="objectstate"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="HibernatePracticeProgramm1"/>
+			<item value="HibernarePracteceProgramm"/>
+			<item value="MappingManayToMany"/>
+			<item value="MappingManyToOne"/>
+			<item value="MappingOneToMany"/>
+			<item value="MappingOneToOne"/>
+			<item value="DependencyRequiredAnnotationDemo"/>
+			<item value="DependsOnDemo"/>
+			<item value="DependencyCheckingDemo1"/>
+			<item value="AutowiringConstructorDemo"/>
+			<item value="AutowiringByNameDemo"/>
+			<item value="AutowringByTypeDemo"/>
+			<item value="DependencyInjectionConstructorDemo"/>
+			<item value="DependencyInjectionSetterDemo"/>
+			<item value="SpringDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\CORE JAVA\HibernarePracteceProgramm"/>
+			<item value="E:\CORE JAVA\MappingOneToMany\src\main\resources\hibernate.cfg.xml"/>
+			<item value="E:\CORE JAVA\MappingOneToOne\pom.xml"/>
+			<item value="E:\CORE JAVA\DependsOnDemo\src\main\resources\spring.xml"/>
+			<item value="E:\CORE JAVA\SpringDemo\pom.xml"/>
+			<item value="E:\CORE JAVA\HibernateDeleteOperation\pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

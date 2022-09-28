@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<beans
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.springframework.org/schema/beans">
+	
+	<bean id="categories" class="com.velocity.Categories" autowire="constructor">
+	<constructor-arg value="Life Insurance"></constructor-arg>
+	</bean>
+	<bean id="Policy" class="com.velocity.Policy">
+	<constructor-arg value="Term plan"></constructor-arg>
+	<constructor-arg value="8500"></constructor-arg>
+	
+	</bean>
+	
+</beans>
